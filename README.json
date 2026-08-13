@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "description": "Note: This tools cannot bypass the 7, 14, 30 day unlock time. (MTKClient, Penumbra exception)",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "More Info"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unlock Miui BootLoader"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Unlock HyperOS BootLoder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bootloader Unlock Wall of Shame (other vendors)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Penn5 miunlock, Canny1913 miunlock (Archive)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "My archive Mi Flash Unlock"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Technical details"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:31:02.159Z",
+    "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
+    "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
+    "enhanced_repository": "enhansome/enhansome-xiaomi-bootloader-unlock",
+    "enhanced_repository_description": null,
+    "title": "Awesome Xiaomi BootLoader Unlock with stars"
+  }
+}
