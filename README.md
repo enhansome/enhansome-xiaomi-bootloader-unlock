@@ -57,7 +57,7 @@
 
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,432 | 🐛 590 | 🌐 Java | 📅 2026-07-14)
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,439 | 🐛 590 | 🌐 Java | 📅 2026-07-14)
 
 #
 
@@ -77,7 +77,7 @@
 
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,432 | 🐛 590 | 🌐 Java | 📅 2026-07-14)
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,439 | 🐛 590 | 🌐 Java | 📅 2026-07-14)
 
 #
 
@@ -153,9 +153,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,288 | 🐛 4 | 📅 2026-08-17
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,289 | 🐛 4 | 📅 2026-08-17
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,288 | 🐛 4 | 📅 2026-08-17
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,289 | 🐛 4 | 📅 2026-08-17
 
 ## Others
 
