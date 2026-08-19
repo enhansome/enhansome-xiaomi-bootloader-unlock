@@ -1,63 +1,125 @@
 {
   "items": [
     {
-      "description": "Note: This tools cannot bypass the 7, 14, 30 day unlock time. (MTKClient, Penumbra exception)",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 729174621,
+            "language": "Java",
+            "last_commit": "2025-06-24T18:19:21Z",
+            "owner": "topminipie",
+            "repo": "XiaoMiToolV2",
+            "stars": 44
+          },
+          "title": "Unlock Miui BootLoader"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 729174621,
+            "language": "Java",
+            "last_commit": "2025-06-24T18:19:21Z",
+            "owner": "topminipie",
+            "repo": "XiaoMiToolV2",
+            "stars": 44
+          },
+          "title": "Unlock HyperOS BootLoder"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 651901746,
+            "language": null,
+            "last_commit": "2026-08-17T18:40:07Z",
+            "owner": "zenfyrdev",
+            "repo": "bootloader-unlock-wall-of-shame",
+            "stars": 5288
+          },
+          "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 651901746,
+            "language": null,
+            "last_commit": "2026-08-17T18:40:07Z",
+            "owner": "zenfyrdev",
+            "repo": "bootloader-unlock-wall-of-shame",
+            "stars": 5288
+          },
+          "title": "Bootloader Unlock Wall of Shame (other vendors)"
+        }
+      ],
       "title": "More Info"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Unlock Miui BootLoader"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Unlock HyperOS BootLoder"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bootloader Unlock Wall of Shame (other vendors)"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 737291815,
+            "language": null,
+            "last_commit": "2026-03-29T21:59:37Z",
+            "owner": "topminipie",
+            "repo": "awesome-xiaomi-bootloader-unlock",
+            "stars": 323
+          },
+          "title": "My archive Mi Flash Unlock"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 234534956,
+            "language": "Assembly",
+            "last_commit": "2020-01-22T14:42:49Z",
+            "owner": "lrh2000",
+            "repo": "Xiaomi-bootloader",
+            "stars": 175
+          },
+          "title": "Technical details"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 726300407,
+            "language": null,
+            "last_commit": "2025-03-05T13:47:30Z",
+            "owner": "MlgmXyysd",
+            "repo": "Xiaomi-BootLoader-Questionnaire",
+            "stars": 4217
+          },
+          "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)"
+        }
+      ],
       "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Penn5 miunlock, Canny1913 miunlock (Archive)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "My archive Mi Flash Unlock"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Technical details"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:51:50.113Z",
+    "last_updated": "2026-08-19T09:52:17.116Z",
     "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
     "enhanced_repository": "enhansome/enhansome-xiaomi-bootloader-unlock",
