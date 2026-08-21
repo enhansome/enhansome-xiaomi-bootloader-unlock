@@ -41,10 +41,10 @@
             "archived": false,
             "id": 651901746,
             "language": null,
-            "last_commit": "2026-08-19T15:34:39Z",
+            "last_commit": "2026-08-20T16:14:34Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5288
+            "stars": 5297
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
         },
@@ -56,10 +56,10 @@
             "archived": false,
             "id": 651901746,
             "language": null,
-            "last_commit": "2026-08-19T15:34:39Z",
+            "last_commit": "2026-08-20T16:14:34Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5288
+            "stars": 5297
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)"
         }
@@ -110,7 +110,7 @@
             "last_commit": "2025-03-05T13:47:30Z",
             "owner": "MlgmXyysd",
             "repo": "Xiaomi-BootLoader-Questionnaire",
-            "stars": 4216
+            "stars": 4215
           },
           "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)"
         }
@@ -119,7 +119,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T09:52:44.734Z",
+    "last_updated": "2026-08-21T09:54:10.595Z",
     "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
     "original_repository_id": 737291815,
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
