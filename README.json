@@ -1,6 +1,218 @@
 {
   "items": [
     {
+      "description": "Note: This tools cannot bypass the 7, 14, 30 day unlock time. (MTKClient, Penumbra exception)",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Run without РС: ✅ (Android app",
+              "description": ", Termux)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44804216,
+                "language": "Java",
+                "last_commit": "2026-07-14T20:47:14Z",
+                "owner": "termux",
+                "repo": "termux-app",
+                "stars": 59691
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (Apache 2.0",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 992082284,
+                "language": "Kotlin",
+                "last_commit": "2026-07-30T03:30:08Z",
+                "owner": "MiForge",
+                "repo": "MiTools",
+                "stars": 214
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MiTools (Android app)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Run without РС: ✅ (Termux",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44804216,
+                "language": "Java",
+                "last_commit": "2026-07-14T20:47:14Z",
+                "owner": "termux",
+                "repo": "termux-app",
+                "stars": 59691
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Termux-MiUnlock"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "My fork - GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 729174621,
+                "language": "Java",
+                "last_commit": "2025-06-24T18:19:21Z",
+                "owner": "topminipie",
+                "repo": "XiaoMiToolV2",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (Apache 2.0",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166792347,
+                "language": "Java",
+                "last_commit": "2024-08-19T13:21:10Z",
+                "owner": "francescotescari",
+                "repo": "XiaoMiToolV2",
+                "stars": 740
+              }
+            }
+          ],
+          "description": "The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.",
+          "node_type": "group",
+          "title": "XiaoMiToolV2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Unlock BootLoader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136797988,
+                "language": "Python",
+                "last_commit": "2026-08-02T09:52:40Z",
+                "owner": "bkerler",
+                "repo": "mtkclient",
+                "stars": 1073
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (GPL 3.0",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136797988,
+                "language": "Python",
+                "last_commit": "2026-08-02T09:52:40Z",
+                "owner": "bkerler",
+                "repo": "mtkclient",
+                "stars": 1073
+              }
+            }
+          ],
+          "description": "Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.",
+          "node_type": "group",
+          "title": "MTKClient"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (AGPL 3.0",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1045411368,
+                "language": "Rust",
+                "last_commit": "2026-08-02T03:06:23Z",
+                "owner": "shomykohai",
+                "repo": "penumbra",
+                "stars": 399
+              }
+            }
+          ],
+          "description": "Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.\nUnlock BootLoader",
+          "node_type": "group",
+          "title": "Penumbra"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (MPL 2.0",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 791713013,
+                "language": "C#",
+                "last_commit": "2026-08-24T14:01:47Z",
+                "owner": "TheAirBlow",
+                "repo": "HyperSploit",
+                "stars": 812
+              }
+            }
+          ],
+          "description": "(Patched HyperOS 2.0.203.0)",
+          "node_type": "group",
+          "title": "HyperSploit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Source code available: ✅ (License",
+              "description": ")",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 721287807,
+                "language": "PHP",
+                "last_commit": "2025-11-11T09:59:26Z",
+                "owner": "MlgmXyysd",
+                "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
+                "stars": 4730
+              }
+            }
+          ],
+          "description": "(Patched HyperOS 2.0.203.0)",
+          "node_type": "group",
+          "title": "Xiaomi HyperOS BootLoader Bypass"
+        }
+      ],
+      "title": "Tools"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -44,7 +256,7 @@
             "last_commit": "2026-08-23T17:23:36Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5325
+            "stars": 5326
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
         },
@@ -59,7 +271,7 @@
             "last_commit": "2026-08-23T17:23:36Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5325
+            "stars": 5326
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)"
         }
@@ -69,6 +281,21 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 192933633,
+            "language": "Python",
+            "last_commit": "2020-10-20T11:10:48Z",
+            "owner": "penn5",
+            "repo": "miunlock",
+            "stars": 60
+          },
+          "title": "Penn5 miunlock, Canny1913 miunlock (Archive)"
+        },
         {
           "children": [],
           "description": null,
@@ -119,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:06:42.135Z",
+    "last_updated": "2026-08-24T14:27:18.912Z",
     "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
     "original_repository_id": 737291815,
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",

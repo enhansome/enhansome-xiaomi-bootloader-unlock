@@ -55,9 +55,9 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge\&message=Website\&color=181717\&logoColor=orange\&label=)](https://offici5l.github.io)
 
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,691 | 🐛 592 | 🌐 Java | 📅 2026-07-14)
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,684 | 🐛 592 | 🌐 Java | 📅 2026-07-14)
 
 #
 
@@ -75,21 +75,21 @@
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/RohitVerma882/termux-miunlock) ⚠️ Archived
 
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,691 | 🐛 592 | 🌐 Java | 📅 2026-07-14)
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,684 | 🐛 592 | 🌐 Java | 📅 2026-07-14)
 
 #
 
 ### XiaoMiToolV2
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/francescotescari/XiaoMiToolV2) ⭐ 739 | 🐛 117 | 🌐 Java | 📅 2024-08-19
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/francescotescari/XiaoMiToolV2) ⭐ 740 | 🐛 117 | 🌐 Java | 📅 2024-08-19
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
 My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) ⚠️ Archived
 
-* Source code available: ✅ ([Apache 2.0](https://github.com/francescotescari/XiaoMiToolV2/blob/refactor/distribution/LICENSE) ⭐ 739 | 🐛 117 | 🌐 Java | 📅 2024-08-19)
+* Source code available: ✅ ([Apache 2.0](https://github.com/francescotescari/XiaoMiToolV2/blob/refactor/distribution/LICENSE) ⭐ 740 | 🐛 117 | 🌐 Java | 📅 2024-08-19)
 * Supported Desktop OS: Linux (Windows, MacOS *¯\ \_ (ツ)\_/¯*)
 * Run without РС: ❌
 
@@ -128,9 +128,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 ### HyperSploit
 
 <sup>(Patched HyperOS 2.0.203.0)</sup><br/>
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/TheAirBlow/HyperSploit) ⭐ 811 | 🐛 24 | 🌐 C# | 📅 2025-05-27
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/TheAirBlow/HyperSploit) ⚠️ Archived
 
-* Source code available: ✅ ([MPL 2.0](https://github.com/TheAirBlow/HyperSploit/blob/main/LICENCE) ⭐ 811 | 🐛 24 | 🌐 C# | 📅 2025-05-27)
+* Source code available: ✅ ([MPL 2.0](https://github.com/TheAirBlow/HyperSploit/blob/main/LICENCE) ⚠️ Archived)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓
 
@@ -153,9 +153,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,325 | 🐛 4 | 📅 2026-08-23
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,326 | 🐛 4 | 📅 2026-08-23
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,325 | 🐛 4 | 📅 2026-08-23
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,326 | 🐛 4 | 📅 2026-08-23
 
 ## Others
 
