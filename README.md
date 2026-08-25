@@ -55,7 +55,7 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge\&message=Website\&color=181717\&logoColor=orange\&label=)](https://offici5l.github.io)
 
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,740 | 🐛 592 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,749 | 🐛 593 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -75,7 +75,7 @@
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/RohitVerma882/termux-miunlock) ⚠️ Archived
 
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,740 | 🐛 592 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,749 | 🐛 593 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -97,14 +97,14 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) ⚠️ Archived
 
 ### MTKClient
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,075 | 🐛 64 | 🌐 Python | 📅 2026-08-02
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,078 | 🐛 64 | 🌐 Python | 📅 2026-08-02
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=Fork\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/R0rt1z2/mtkclient) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-06-17
 
 Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
 
-[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,075 | 🐛 64 | 🌐 Python | 📅 2026-08-02
+[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,078 | 🐛 64 | 🌐 Python | 📅 2026-08-02
 
-* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,075 | 🐛 64 | 🌐 Python | 📅 2026-08-02)
+* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,078 | 🐛 64 | 🌐 Python | 📅 2026-08-02)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓ ([issue #684 (WayBack Machine)](https://web.archive.org/web/20250319144300/https://github.com/bkerler/mtkclient/issues/684), [issue #1113 (WayBack Machine)](https://web.archive.org/web/20250527222018/https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 
@@ -139,9 +139,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 ### Xiaomi HyperOS BootLoader Bypass
 
 <sup>(Patched HyperOS 2.0.203.0)</sup><br/>
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,731 | 🐛 161 | 🌐 PHP | 📅 2025-11-11
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,733 | 🐛 161 | 🌐 PHP | 📅 2025-11-11
 
-* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,731 | 🐛 161 | 🌐 PHP | 📅 2025-11-11)
+* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,733 | 🐛 161 | 🌐 PHP | 📅 2025-11-11)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓
 
@@ -153,9 +153,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,328 | 🐛 3 | 📅 2026-08-24
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,330 | 🐛 3 | 📅 2026-08-24
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,328 | 🐛 3 | 📅 2026-08-24
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,330 | 🐛 3 | 📅 2026-08-24
 
 ## Others
 
