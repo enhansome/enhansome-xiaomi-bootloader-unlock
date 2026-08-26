@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59749
+                "stars": 59796
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-07-30T03:30:08Z",
                 "owner": "MiForge",
                 "repo": "MiTools",
-                "stars": 214
+                "stars": 215
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59749
+                "stars": 59796
               }
             }
           ],
@@ -98,7 +98,7 @@
                 "last_commit": "2024-08-19T13:21:10Z",
                 "owner": "francescotescari",
                 "repo": "XiaoMiToolV2",
-                "stars": 740
+                "stars": 741
               }
             }
           ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1078
+                "stars": 1084
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1078
+                "stars": 1084
               }
             }
           ],
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-02T03:06:23Z",
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 399
+                "stars": 400
               }
             }
           ],
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-24T14:01:47Z",
                 "owner": "TheAirBlow",
                 "repo": "HyperSploit",
-                "stars": 812
+                "stars": 810
               }
             }
           ],
@@ -201,7 +201,7 @@
                 "last_commit": "2025-11-11T09:59:26Z",
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4733
+                "stars": 4737
               }
             }
           ],
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-24T16:46:38Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5330
+            "stars": 5334
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
         },
@@ -271,7 +271,7 @@
             "last_commit": "2026-08-24T16:46:38Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5330
+            "stars": 5334
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)"
         }
@@ -307,7 +307,7 @@
             "last_commit": "2026-03-29T21:59:37Z",
             "owner": "topminipie",
             "repo": "awesome-xiaomi-bootloader-unlock",
-            "stars": 323
+            "stars": 324
           },
           "title": "My archive Mi Flash Unlock"
         },
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:53:55.877Z",
+    "last_updated": "2026-08-26T10:00:18.147Z",
     "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
     "original_repository_id": 737291815,
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
