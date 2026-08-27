@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59796
+                "stars": 59858
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59796
+                "stars": 59858
               }
             }
           ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1084
+                "stars": 1090
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1084
+                "stars": 1090
               }
             }
           ],
@@ -154,7 +154,7 @@
                 "archived": false,
                 "id": 1045411368,
                 "language": "Rust",
-                "last_commit": "2026-08-02T03:06:23Z",
+                "last_commit": "2026-08-27T10:23:05Z",
                 "owner": "shomykohai",
                 "repo": "penumbra",
                 "stars": 400
@@ -201,7 +201,7 @@
                 "last_commit": "2025-11-11T09:59:26Z",
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4737
+                "stars": 4738
               }
             }
           ],
@@ -256,7 +256,7 @@
             "last_commit": "2026-08-24T16:46:38Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5334
+            "stars": 5336
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
         },
@@ -271,7 +271,7 @@
             "last_commit": "2026-08-24T16:46:38Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5334
+            "stars": 5336
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)"
         }
@@ -346,9 +346,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:00:18.147Z",
-    "original_repository": "topminipie/awesome-xiaomi-bootloader-unlock",
-    "original_repository_id": 737291815,
+    "last_updated": "2026-08-27T12:14:14.550Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 737291815,
+      "language": null,
+      "last_commit": "2026-03-29T21:59:37Z",
+      "owner": "topminipie",
+      "repo": "awesome-xiaomi-bootloader-unlock",
+      "stars": 324
+    },
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
     "enhanced_repository": "enhansome/enhansome-xiaomi-bootloader-unlock",
     "enhanced_repository_description": null,
