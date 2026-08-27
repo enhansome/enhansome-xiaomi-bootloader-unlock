@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59858
+                "stars": 59870
               }
             }
           ],
@@ -61,7 +61,7 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59858
+                "stars": 59870
               }
             }
           ],
@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1090
+                "stars": 1091
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1090
+                "stars": 1091
               }
             }
           ],
@@ -157,7 +157,7 @@
                 "last_commit": "2026-08-27T10:23:05Z",
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 400
+                "stars": 398
               }
             }
           ],
@@ -253,10 +253,10 @@
             "archived": false,
             "id": 651901746,
             "language": null,
-            "last_commit": "2026-08-24T16:46:38Z",
+            "last_commit": "2026-08-27T16:57:15Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5336
+            "stars": 5337
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
         },
@@ -268,10 +268,10 @@
             "archived": false,
             "id": 651901746,
             "language": null,
-            "last_commit": "2026-08-24T16:46:38Z",
+            "last_commit": "2026-08-27T16:57:15Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5336
+            "stars": 5337
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)"
         }
@@ -346,7 +346,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:14:14.550Z",
+    "last_updated": "2026-08-27T19:52:26.080Z",
     "original_repository_info": {
       "archived": false,
       "id": 737291815,
