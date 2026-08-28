@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59870
-              }
+                "stars": 59932
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "MiForge",
                 "repo": "MiTools",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": null,
@@ -61,8 +63,9 @@
                 "last_commit": "2026-08-24T15:23:08Z",
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59870
-              }
+                "stars": 59932
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": null,
@@ -84,7 +87,8 @@
                 "owner": "topminipie",
                 "repo": "XiaoMiToolV2",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             },
             {
               "node_type": "item",
@@ -98,8 +102,9 @@
                 "last_commit": "2024-08-19T13:21:10Z",
                 "owner": "francescotescari",
                 "repo": "XiaoMiToolV2",
-                "stars": 741
-              }
+                "stars": 742
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": "The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.",
@@ -120,8 +125,9 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1091
-              }
+                "stars": 1094
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             },
             {
               "node_type": "item",
@@ -135,8 +141,9 @@
                 "last_commit": "2026-08-02T09:52:40Z",
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1091
-              }
+                "stars": 1094
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": "Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.",
@@ -154,11 +161,12 @@
                 "archived": false,
                 "id": 1045411368,
                 "language": "Rust",
-                "last_commit": "2026-08-27T10:23:05Z",
+                "last_commit": "2026-08-28T01:31:42Z",
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 398
-              }
+                "stars": 403
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": "Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.\nUnlock BootLoader",
@@ -180,7 +188,8 @@
                 "owner": "TheAirBlow",
                 "repo": "HyperSploit",
                 "stars": 810
-              }
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": "(Patched HyperOS 2.0.203.0)",
@@ -201,8 +210,9 @@
                 "last_commit": "2025-11-11T09:59:26Z",
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4738
-              }
+                "stars": 4740
+              },
+              "first_seen": "2026-08-28T20:56:20.237Z"
             }
           ],
           "description": "(Patched HyperOS 2.0.203.0)",
@@ -228,7 +238,8 @@
             "repo": "XiaoMiToolV2",
             "stars": 44
           },
-          "title": "Unlock Miui BootLoader"
+          "title": "Unlock Miui BootLoader",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -243,7 +254,8 @@
             "repo": "XiaoMiToolV2",
             "stars": 44
           },
-          "title": "Unlock HyperOS BootLoder"
+          "title": "Unlock HyperOS BootLoder",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -256,9 +268,10 @@
             "last_commit": "2026-08-27T16:57:15Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5337
+            "stars": 5342
           },
-          "title": "Bootloader Unlock Wall of Shame (Xiaomi)"
+          "title": "Bootloader Unlock Wall of Shame (Xiaomi)",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -271,9 +284,10 @@
             "last_commit": "2026-08-27T16:57:15Z",
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5337
+            "stars": 5342
           },
-          "title": "Bootloader Unlock Wall of Shame (other vendors)"
+          "title": "Bootloader Unlock Wall of Shame (other vendors)",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         }
       ],
       "title": "More Info"
@@ -294,7 +308,8 @@
             "repo": "miunlock",
             "stars": 60
           },
-          "title": "Penn5 miunlock, Canny1913 miunlock (Archive)"
+          "title": "Penn5 miunlock, Canny1913 miunlock (Archive)",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -307,9 +322,10 @@
             "last_commit": "2026-03-29T21:59:37Z",
             "owner": "topminipie",
             "repo": "awesome-xiaomi-bootloader-unlock",
-            "stars": 324
+            "stars": 325
           },
-          "title": "My archive Mi Flash Unlock"
+          "title": "My archive Mi Flash Unlock",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -324,7 +340,8 @@
             "repo": "Xiaomi-bootloader",
             "stars": 176
           },
-          "title": "Technical details"
+          "title": "Technical details",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         },
         {
           "children": [],
@@ -339,14 +356,15 @@
             "repo": "Xiaomi-BootLoader-Questionnaire",
             "stars": 4215
           },
-          "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)"
+          "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)",
+          "first_seen": "2026-08-28T20:56:20.237Z"
         }
       ],
       "title": "Others"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:52:26.080Z",
+    "last_updated": "2026-08-28T20:56:20.237Z",
     "original_repository_info": {
       "archived": false,
       "id": 737291815,
@@ -354,7 +372,7 @@
       "last_commit": "2026-03-29T21:59:37Z",
       "owner": "topminipie",
       "repo": "awesome-xiaomi-bootloader-unlock",
-      "stars": 324
+      "stars": 325
     },
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
     "enhanced_repository": "enhansome/enhansome-xiaomi-bootloader-unlock",
