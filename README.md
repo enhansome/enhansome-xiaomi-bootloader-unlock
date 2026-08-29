@@ -55,7 +55,7 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge\&message=Website\&color=181717\&logoColor=orange\&label=)](https://offici5l.github.io)
 
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,946 | 🐛 598 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,962 | 🐛 598 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -75,7 +75,7 @@
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/RohitVerma882/termux-miunlock) ⚠️ Archived
 
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,946 | 🐛 598 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 59,962 | 🐛 598 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -83,13 +83,13 @@
 
 ### XiaoMiToolV2
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/francescotescari/XiaoMiToolV2) ⭐ 742 | 🐛 117 | 🌐 Java | 📅 2024-08-19
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/francescotescari/XiaoMiToolV2) ⭐ 741 | 🐛 117 | 🌐 Java | 📅 2024-08-19
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
 My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) ⚠️ Archived
 
-* Source code available: ✅ ([Apache 2.0](https://github.com/francescotescari/XiaoMiToolV2/blob/refactor/distribution/LICENSE) ⭐ 742 | 🐛 117 | 🌐 Java | 📅 2024-08-19)
+* Source code available: ✅ ([Apache 2.0](https://github.com/francescotescari/XiaoMiToolV2/blob/refactor/distribution/LICENSE) ⭐ 741 | 🐛 117 | 🌐 Java | 📅 2024-08-19)
 * Supported Desktop OS: Linux (Windows, MacOS *¯\ \_ (ツ)\_/¯*)
 * Run without РС: ❌
 
@@ -139,9 +139,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 ### Xiaomi HyperOS BootLoader Bypass
 
 <sup>(Patched HyperOS 2.0.203.0)</sup><br/>
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,740 | 🐛 161 | 🌐 PHP | 📅 2025-11-11
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,741 | 🐛 161 | 🌐 PHP | 📅 2025-11-11
 
-* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,740 | 🐛 161 | 🌐 PHP | 📅 2025-11-11)
+* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,741 | 🐛 161 | 🌐 PHP | 📅 2025-11-11)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓
 
@@ -153,9 +153,9 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,342 | 🐛 3 | 📅 2026-08-27
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,343 | 🐛 3 | 📅 2026-08-27
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,342 | 🐛 3 | 📅 2026-08-27
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,343 | 🐛 3 | 📅 2026-08-27
 
 ## Others
 
