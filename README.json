@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+                "homepage": "https://f-droid.org/en/packages/com.termux",
                 "id": 44804216,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:23:08Z",
+                "open_issues": 598,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59932
+                "stars": 59946,
+                "topics": [
+                  "android",
+                  "hacktoberfest",
+                  "linux",
+                  "terminal",
+                  "termux"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -35,12 +46,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xiaomi's PC tools on Android.",
+                "homepage": null,
                 "id": 992082284,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-30T03:30:08Z",
+                "open_issues": 16,
                 "owner": "MiForge",
                 "repo": "MiTools",
-                "stars": 215
+                "stars": 216,
+                "topics": [
+                  "app",
+                  "bootloader",
+                  "hyperos",
+                  "miui",
+                  "miunlock",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -58,12 +81,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+                "homepage": "https://f-droid.org/en/packages/com.termux",
                 "id": 44804216,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T15:23:08Z",
+                "open_issues": 598,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 59932
+                "stars": 59946,
+                "topics": [
+                  "android",
+                  "hacktoberfest",
+                  "linux",
+                  "terminal",
+                  "termux"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -81,12 +115,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "BootLoader unlock tool for Xiaomi devices",
+                "homepage": null,
                 "id": 729174621,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-24T18:19:21Z",
+                "open_issues": 3,
                 "owner": "topminipie",
                 "repo": "XiaoMiToolV2",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "adb",
+                  "android",
+                  "bootloader",
+                  "fastboot",
+                  "mi",
+                  "modding",
+                  "recovery",
+                  "unlock-bootloader",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             },
@@ -97,12 +146,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XiaomiTool V2 - Modding tool for xiaomi devices",
+                "homepage": "https://www.xiaomitool.com",
                 "id": 166792347,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-19T13:21:10Z",
+                "open_issues": 117,
                 "owner": "francescotescari",
                 "repo": "XiaoMiToolV2",
-                "stars": 742
+                "stars": 742,
+                "topics": [
+                  "adb",
+                  "android",
+                  "bootloader",
+                  "fastboot",
+                  "mi",
+                  "modding",
+                  "recovery",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -120,12 +183,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mediatek Flash and Repair Utility",
+                "homepage": null,
                 "id": 1136797988,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-02T09:52:40Z",
+                "open_issues": 65,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1094
+                "stars": 1094,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             },
@@ -136,12 +204,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mediatek Flash and Repair Utility",
+                "homepage": null,
                 "id": 1136797988,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-02T09:52:40Z",
+                "open_issues": 65,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1094
+                "stars": 1094,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -159,12 +232,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌘 MTK flash tool written in rust",
+                "homepage": "https://penumbra.itssho.my/",
                 "id": 1045411368,
                 "language": "Rust",
-                "last_commit": "2026-08-28T01:31:42Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-28T23:14:37Z",
+                "open_issues": 9,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 403
+                "stars": 403,
+                "topics": [
+                  "bootloader-unlock",
+                  "firmware-update",
+                  "mediatek",
+                  "mtk",
+                  "mtkclient",
+                  "mtkv6"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -182,12 +267,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bypasses HyperOS restrictions on bootloader unlocking",
+                "homepage": null,
                 "id": 791713013,
                 "language": "C#",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-24T14:01:47Z",
+                "open_issues": 24,
                 "owner": "TheAirBlow",
                 "repo": "HyperSploit",
-                "stars": 810
+                "stars": 809,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -205,12 +295,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.",
+                "homepage": "https://www.neko.ink/",
                 "id": 721287807,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2025-11-11T09:59:26Z",
+                "open_issues": 161,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4740
+                "stars": 4740,
+                "topics": [
+                  "android",
+                  "android-development",
+                  "bootloader",
+                  "bootloader-unlock",
+                  "hyperos",
+                  "miui",
+                  "xiaomi"
+                ]
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
             }
@@ -231,12 +334,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "BootLoader unlock tool for Xiaomi devices",
+            "homepage": null,
             "id": 729174621,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-24T18:19:21Z",
+            "open_issues": 3,
             "owner": "topminipie",
             "repo": "XiaoMiToolV2",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "adb",
+              "android",
+              "bootloader",
+              "fastboot",
+              "mi",
+              "modding",
+              "recovery",
+              "unlock-bootloader",
+              "xiaomi"
+            ]
           },
           "title": "Unlock Miui BootLoader",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -247,12 +365,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "BootLoader unlock tool for Xiaomi devices",
+            "homepage": null,
             "id": 729174621,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-24T18:19:21Z",
+            "open_issues": 3,
             "owner": "topminipie",
             "repo": "XiaoMiToolV2",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "adb",
+              "android",
+              "bootloader",
+              "fastboot",
+              "mi",
+              "modding",
+              "recovery",
+              "unlock-bootloader",
+              "xiaomi"
+            ]
           },
           "title": "Unlock HyperOS BootLoder",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -263,12 +396,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Keeping track of companies that \"care about your data 🥺\"",
+            "homepage": null,
             "id": 651901746,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:57:15Z",
+            "open_issues": 3,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5342
+            "stars": 5342,
+            "topics": [
+              "android",
+              "bootloader",
+              "bootloader-unlock",
+              "honor",
+              "huawei",
+              "iqoo",
+              "nokia",
+              "oppo",
+              "realme",
+              "samsung",
+              "vivo"
+            ]
           },
           "title": "Bootloader Unlock Wall of Shame (Xiaomi)",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -279,12 +429,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Keeping track of companies that \"care about your data 🥺\"",
+            "homepage": null,
             "id": 651901746,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T16:57:15Z",
+            "open_issues": 3,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5342
+            "stars": 5342,
+            "topics": [
+              "android",
+              "bootloader",
+              "bootloader-unlock",
+              "honor",
+              "huawei",
+              "iqoo",
+              "nokia",
+              "oppo",
+              "realme",
+              "samsung",
+              "vivo"
+            ]
           },
           "title": "Bootloader Unlock Wall of Shame (other vendors)",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -301,12 +468,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Test code to talk to unlock.update.miui.com",
+            "homepage": "https://unlock.update.miui.com",
             "id": 192933633,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-20T11:10:48Z",
+            "open_issues": 1,
             "owner": "penn5",
             "repo": "miunlock",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "title": "Penn5 miunlock, Canny1913 miunlock (Archive)",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -317,12 +489,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Awesome Xiaomi BootLoader Unlock",
+            "homepage": null,
             "id": 737291815,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-29T21:59:37Z",
+            "open_issues": 0,
             "owner": "topminipie",
             "repo": "awesome-xiaomi-bootloader-unlock",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "adb",
+              "android",
+              "awesome",
+              "awesome-list",
+              "bootloader",
+              "edl-mode",
+              "fastboot",
+              "lists",
+              "mi",
+              "modding",
+              "modding-tools",
+              "recovery",
+              "resources",
+              "unlock-bootloader",
+              "xiaomi"
+            ]
           },
           "title": "My archive Mi Flash Unlock",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -333,12 +526,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Some research about the bootloader used in Xiaomi phones.",
+            "homepage": null,
             "id": 234534956,
             "language": "Assembly",
+            "license": null,
             "last_commit": "2020-01-22T14:42:49Z",
+            "open_issues": 1,
             "owner": "lrh2000",
             "repo": "Xiaomi-bootloader",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "title": "Technical details",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -349,12 +547,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "小米 BootLoader《解锁资格答题测试》更新记录",
+            "homepage": "http://xmbl.neko.ink/",
             "id": 726300407,
             "language": null,
+            "license": null,
             "last_commit": "2025-03-05T13:47:30Z",
+            "open_issues": 3,
             "owner": "MlgmXyysd",
             "repo": "Xiaomi-BootLoader-Questionnaire",
-            "stars": 4215
+            "stars": 4215,
+            "topics": [
+              "android",
+              "bootloader",
+              "bootloader-unlock",
+              "xiaomi"
+            ]
           },
           "title": "Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)",
           "first_seen": "2026-08-28T20:56:20.237Z"
@@ -364,15 +572,36 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:56:20.237Z",
+    "last_updated": "2026-08-29T04:45:56.268Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Xiaomi BootLoader Unlock",
+      "homepage": null,
       "id": 737291815,
       "language": null,
+      "license": null,
       "last_commit": "2026-03-29T21:59:37Z",
+      "open_issues": 0,
       "owner": "topminipie",
       "repo": "awesome-xiaomi-bootloader-unlock",
-      "stars": 325
+      "stars": 325,
+      "topics": [
+        "adb",
+        "android",
+        "awesome",
+        "awesome-list",
+        "bootloader",
+        "edl-mode",
+        "fastboot",
+        "lists",
+        "mi",
+        "modding",
+        "modding-tools",
+        "recovery",
+        "resources",
+        "unlock-bootloader",
+        "xiaomi"
+      ]
     },
     "original_repository_sha": "77e8207d767148cbde82f0759f0d2ce1dd51478b",
     "enhanced_repository": "enhansome/enhansome-xiaomi-bootloader-unlock",
