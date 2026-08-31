@@ -55,7 +55,7 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge\&message=Website\&color=181717\&logoColor=orange\&label=)](https://offici5l.github.io)
 
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 60,018 | 🐛 599 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 60,080 | 🐛 600 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -75,7 +75,7 @@
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/RohitVerma882/termux-miunlock) ⚠️ Archived
 
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 60,018 | 🐛 599 | 🌐 Java | 📅 2026-08-24)
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 60,080 | 🐛 600 | 🌐 Java | 📅 2026-08-24)
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -97,14 +97,14 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) ⚠️ Archived
 
 ### MTKClient
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,101 | 🐛 66 | 🌐 Python | 📅 2026-08-02
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,107 | 🐛 66 | 🌐 Python | 📅 2026-08-02
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=Fork\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/R0rt1z2/mtkclient) ⭐ 23 | 🐛 0 | 🌐 Python | 📅 2026-06-17
 
 Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
 
-[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,101 | 🐛 66 | 🌐 Python | 📅 2026-08-02
+[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,107 | 🐛 66 | 🌐 Python | 📅 2026-08-02
 
-* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,101 | 🐛 66 | 🌐 Python | 📅 2026-08-02)
+* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,107 | 🐛 66 | 🌐 Python | 📅 2026-08-02)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓ ([issue #684 (WayBack Machine)](https://web.archive.org/web/20250319144300/https://github.com/bkerler/mtkclient/issues/684), [issue #1113 (WayBack Machine)](https://web.archive.org/web/20250527222018/https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 
@@ -112,14 +112,14 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 ### Penumbra
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/shomykohai/penumbra) ⭐ 405 | 🐛 9 | 🌐 Rust | 📅 2026-08-28
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/shomykohai/penumbra) ⭐ 406 | 🐛 8 | 🌐 Rust | 📅 2026-08-28
 [![Docs](https://img.shields.io/static/v1?style=for-the-badge\&message=Docs\&color=181717\&logoColor=FFFFFF\&label=)](https://penumbra.itssho.my/)
 
 Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
 
 [Unlock BootLoader](https://penumbra.itssho.my/Penumbra/Antumbra/CLI#unlock--relock-bootloader)
 
-* Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license) ⭐ 405 | 🐛 9 | 🌐 Rust | 📅 2026-08-28)
+* Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license) ⭐ 406 | 🐛 8 | 🌐 Rust | 📅 2026-08-28)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓
 
@@ -153,20 +153,20 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,342 | 🐛 3 | 📅 2026-08-27
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,349 | 🐛 3 | 📅 2026-08-27
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,342 | 🐛 3 | 📅 2026-08-27
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,349 | 🐛 3 | 📅 2026-08-27
 
 ## Others
 
-#### [Penn5 miunlock](https://github.com/penn5/miunlock) ⭐ 60 | 🐛 1 | 🌐 Python | 📅 2020-10-20, [Canny1913 miunlock (Archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0) ⭐ 326 | 🐛 0 | 📅 2026-03-29
+#### [Penn5 miunlock](https://github.com/penn5/miunlock) ⭐ 59 | 🐛 1 | 🌐 Python | 📅 2020-10-20, [Canny1913 miunlock (Archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0) ⭐ 326 | 🐛 0 | 📅 2026-03-29
 
 #### [My archive Mi Flash Unlock](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.1) ⭐ 326 | 🐛 0 | 📅 2026-03-29
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader) ⭐ 176 | 🐛 1 | 🌐 Assembly | 📅 2020-01-22
 
-#### [Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) ⭐ 4,214 | 🐛 3 | 📅 2025-03-05
+#### [Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) ⭐ 4,212 | 🐛 3 | 📅 2025-03-05
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
