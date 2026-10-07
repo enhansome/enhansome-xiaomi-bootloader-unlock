@@ -18,10 +18,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 631,
+                "open_issues": 633,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62093,
+                "stars": 62151,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -87,10 +87,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 631,
+                "open_issues": 633,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62093,
+                "stars": 62151,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -189,10 +189,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T11:25:02Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1275,
+                "stars": 1278,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -210,10 +210,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T11:25:02Z",
-                "open_issues": 73,
+                "open_issues": 72,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1275,
+                "stars": 1278,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -237,11 +237,11 @@
                 "id": 1045411368,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-11T14:15:25Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-06T22:30:06Z",
+                "open_issues": 8,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 444,
+                "stars": 445,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -275,7 +275,7 @@
                 "language": "C#",
                 "license": "MPL-2.0",
                 "last_commit": "2026-08-24T14:01:47Z",
-                "open_issues": 24,
+                "open_issues": 23,
                 "owner": "TheAirBlow",
                 "repo": "HyperSploit",
                 "stars": 812,
@@ -306,7 +306,7 @@
                 "open_issues": 162,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4781,
+                "stars": 4788,
                 "topics": [
                   "android",
                   "android-development",
@@ -407,7 +407,7 @@
             "open_issues": 7,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5510,
+            "stars": 5518,
             "topics": [
               "android",
               "bootloader",
@@ -440,7 +440,7 @@
             "open_issues": 7,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5510,
+            "stars": 5518,
             "topics": [
               "android",
               "bootloader",
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T15:59:51.927Z",
+    "last_updated": "2026-10-07T16:36:20.500Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Xiaomi BootLoader Unlock",
@@ -549,7 +549,7 @@
       "open_issues": 0,
       "owner": "topminipie",
       "repo": "awesome-xiaomi-bootloader-unlock",
-      "stars": 327,
+      "stars": 328,
       "topics": [
         "adb",
         "android",
