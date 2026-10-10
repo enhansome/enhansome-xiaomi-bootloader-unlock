@@ -21,7 +21,7 @@
                 "open_issues": 635,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62267,
+                "stars": 62329,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -90,7 +90,7 @@
                 "open_issues": 635,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62267,
+                "stars": 62329,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -189,10 +189,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T11:25:02Z",
-                "open_issues": 76,
+                "open_issues": 73,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -210,10 +210,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T11:25:02Z",
-                "open_issues": 76,
+                "open_issues": 73,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1290,
+                "stars": 1291,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -241,7 +241,7 @@
                 "open_issues": 9,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 449,
+                "stars": 453,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -278,7 +278,7 @@
                 "open_issues": 9,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 449,
+                "stars": 453,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -340,10 +340,10 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2025-11-11T09:59:26Z",
-                "open_issues": 162,
+                "open_issues": 163,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4790,
+                "stars": 4791,
                 "topics": [
                   "android",
                   "android-development",
@@ -440,11 +440,11 @@
             "id": 651901746,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T15:59:01Z",
+            "last_commit": "2026-10-10T09:52:14Z",
             "open_issues": 8,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5524,
+            "stars": 5526,
             "topics": [
               "android",
               "bootloader",
@@ -473,11 +473,11 @@
             "id": 651901746,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T15:59:01Z",
+            "last_commit": "2026-10-10T09:52:14Z",
             "open_issues": 8,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5524,
+            "stars": 5526,
             "topics": [
               "android",
               "bootloader",
@@ -537,7 +537,7 @@
             "open_issues": 1,
             "owner": "lrh2000",
             "repo": "Xiaomi-bootloader",
-            "stars": 177,
+            "stars": 178,
             "topics": []
           },
           "title": "Technical details",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:17:56.331Z",
+    "last_updated": "2026-10-10T15:25:56.001Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Xiaomi BootLoader Unlock",
