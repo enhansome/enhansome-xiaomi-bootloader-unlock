@@ -18,10 +18,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 640,
+                "open_issues": 641,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62679,
+                "stars": 62737,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 16,
                 "owner": "MiForge",
                 "repo": "MiTools",
-                "stars": 223,
+                "stars": 224,
                 "topics": [
                   "app",
                   "bootloader",
@@ -87,10 +87,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 640,
+                "open_issues": 641,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 62679,
+                "stars": 62737,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -189,10 +189,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T07:17:05Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1325,
+                "stars": 1330,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -210,10 +210,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T07:17:05Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1325,
+                "stars": 1330,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -237,11 +237,11 @@
                 "id": 1045411368,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T18:15:02Z",
+                "last_commit": "2026-10-16T09:46:48Z",
                 "open_issues": 6,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -274,11 +274,11 @@
                 "id": 1045411368,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T18:15:02Z",
+                "last_commit": "2026-10-16T09:46:48Z",
                 "open_issues": 6,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -343,7 +343,7 @@
                 "open_issues": 163,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4796,
+                "stars": 4800,
                 "topics": [
                   "android",
                   "android-development",
@@ -441,10 +441,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T09:52:14Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5545,
+            "stars": 5552,
             "topics": [
               "android",
               "bootloader",
@@ -474,10 +474,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2026-10-10T09:52:14Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5545,
+            "stars": 5552,
             "topics": [
               "android",
               "bootloader",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:12:49.930Z",
+    "last_updated": "2026-10-16T14:00:22.238Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Xiaomi BootLoader Unlock",
