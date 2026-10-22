@@ -18,10 +18,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 645,
+                "open_issues": 644,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 63109,
+                "stars": 63183,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -55,7 +55,7 @@
                 "open_issues": 16,
                 "owner": "MiForge",
                 "repo": "MiTools",
-                "stars": 231,
+                "stars": 232,
                 "topics": [
                   "app",
                   "bootloader",
@@ -87,10 +87,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-26T05:11:44Z",
-                "open_issues": 645,
+                "open_issues": 644,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 63109,
+                "stars": 63183,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -189,10 +189,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T07:17:05Z",
-                "open_issues": 69,
+                "open_issues": 64,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1353,
+                "stars": 1356,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -210,10 +210,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T07:17:05Z",
-                "open_issues": 69,
+                "open_issues": 64,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1353,
+                "stars": 1356,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -241,7 +241,7 @@
                 "open_issues": 6,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 458,
+                "stars": 461,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -278,7 +278,7 @@
                 "open_issues": 6,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 458,
+                "stars": 461,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -343,7 +343,7 @@
                 "open_issues": 163,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4802,
+                "stars": 4801,
                 "topics": [
                   "android",
                   "android-development",
@@ -444,7 +444,7 @@
             "open_issues": 10,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5577,
+            "stars": 5582,
             "topics": [
               "android",
               "bootloader",
@@ -477,7 +477,7 @@
             "open_issues": 10,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5577,
+            "stars": 5582,
             "topics": [
               "android",
               "bootloader",
@@ -558,7 +558,7 @@
             "open_issues": 3,
             "owner": "MlgmXyysd",
             "repo": "Xiaomi-BootLoader-Questionnaire",
-            "stars": 4189,
+            "stars": 4188,
             "topics": [
               "android",
               "bootloader",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:31:21.371Z",
+    "last_updated": "2026-10-22T14:33:18.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Xiaomi BootLoader Unlock",
