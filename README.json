@@ -18,10 +18,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:38:22Z",
-                "open_issues": 653,
+                "open_issues": 652,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 64331,
+                "stars": 64400,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -87,10 +87,10 @@
                 "language": "Java",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-05T09:38:22Z",
-                "open_issues": 653,
+                "open_issues": 652,
                 "owner": "termux",
                 "repo": "termux-app",
-                "stars": 64331,
+                "stars": 64400,
                 "topics": [
                   "android",
                   "hacktoberfest",
@@ -189,10 +189,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T08:53:35Z",
-                "open_issues": 72,
+                "open_issues": 75,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1454,
+                "stars": 1460,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -210,10 +210,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-26T08:53:35Z",
-                "open_issues": 72,
+                "open_issues": 75,
                 "owner": "bkerler",
                 "repo": "mtkclient",
-                "stars": 1454,
+                "stars": 1460,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:56:20.237Z"
@@ -238,10 +238,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-25T23:44:45Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 486,
+                "stars": 490,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -275,10 +275,10 @@
                 "language": "Rust",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-25T23:44:45Z",
-                "open_issues": 7,
+                "open_issues": 8,
                 "owner": "shomykohai",
                 "repo": "penumbra",
-                "stars": 486,
+                "stars": 490,
                 "topics": [
                   "bootloader-unlock",
                   "exploitation",
@@ -340,10 +340,10 @@
                 "language": "PHP",
                 "license": null,
                 "last_commit": "2025-11-11T09:59:26Z",
-                "open_issues": 163,
+                "open_issues": 164,
                 "owner": "MlgmXyysd",
                 "repo": "Xiaomi-HyperOS-BootLoader-Bypass",
-                "stars": 4813,
+                "stars": 4817,
                 "topics": [
                   "android",
                   "android-development",
@@ -444,7 +444,7 @@
             "open_issues": 10,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5646,
+            "stars": 5649,
             "topics": [
               "android",
               "bootloader",
@@ -477,7 +477,7 @@
             "open_issues": 10,
             "owner": "zenfyrdev",
             "repo": "bootloader-unlock-wall-of-shame",
-            "stars": 5646,
+            "stars": 5649,
             "topics": [
               "android",
               "bootloader",
@@ -574,7 +574,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:43:37.027Z",
+    "last_updated": "2026-11-08T16:01:31.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Xiaomi BootLoader Unlock",
