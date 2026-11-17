@@ -55,7 +55,7 @@
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge\&message=Website\&color=181717\&logoColor=orange\&label=)](https://miforge.github.io/)
 
-* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 65,007 | 🐛 657 | 🌐 Java | 📅 2026-11-05 - [1](https://github.com/MiForge/MiUnlockTool/blob/main/INSTALL.md#android-termux) ⭐ 1,605 | 🐛 16 | 🌐 Python | 📅 2026-11-12, [2](https://github.com/MiForge/MiTool#notes) ⭐ 685 | 🐛 31 | 🌐 Python | 📅 2026-09-16)
+* Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 65,079 | 🐛 661 | 🌐 Java | 📅 2026-11-05 - [1](https://github.com/MiForge/MiUnlockTool/blob/main/INSTALL.md#android-termux) ⭐ 1,607 | 🐛 17 | 🌐 Python | 📅 2026-11-12, [2](https://github.com/MiForge/MiTool#notes) ⭐ 686 | 🐛 31 | 🌐 Python | 📅 2026-09-16)
 * Source code available: ✅ (Apache 2.0)
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -75,7 +75,7 @@
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/RohitVerma882/termux-miunlock) ⚠️ Archived
 
-* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 65,007 | 🐛 657 | 🌐 Java | 📅 2026-11-05)
+* Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest) ⭐ 65,079 | 🐛 661 | 🌐 Java | 📅 2026-11-05)
 * Source code available: ❌
 * Supported Desktop OS: Windows, Linux, MacOS
 
@@ -97,14 +97,14 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) ⚠️ Archived
 
 ### MTKClient
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,536 | 🐛 85 | 🌐 Python | 📅 2026-10-26
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/bkerler/mtkclient) ⭐ 1,550 | 🐛 85 | 🌐 Python | 📅 2026-10-26
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=Fork\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/R0rt1z2/mtkclient) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2026-06-17
 
 Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
 
-[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,536 | 🐛 85 | 🌐 Python | 📅 2026-10-26
+[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader) ⭐ 1,550 | 🐛 85 | 🌐 Python | 📅 2026-10-26
 
-* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,536 | 🐛 85 | 🌐 Python | 📅 2026-10-26)
+* Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE) ⭐ 1,550 | 🐛 85 | 🌐 Python | 📅 2026-10-26)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓ ([issue #684 (WayBack Machine)](https://web.archive.org/web/20250319144300/https://github.com/bkerler/mtkclient/issues/684), [issue #1113 (WayBack Machine)](https://web.archive.org/web/20250527222018/https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 
@@ -127,7 +127,7 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 ### Umbrage
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/progzone122/umbrage) ⭐ 49 | 🐛 2 | 🌐 QML | 📅 2026-10-22
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/progzone122/umbrage) ⭐ 49 | 🐛 3 | 🌐 QML | 📅 2026-10-22
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge\&message=Telegram\&color=181717\&logo=Telegram\&logoColor=blue\&label=)](https://t.me/umbrage_project)
 
 Cross-platform GUI tool for working with MediaTek SOC-based devices, built on top of the [penumbra](#penumbra) core.
@@ -152,9 +152,9 @@ Cross-platform GUI tool for working with MediaTek SOC-based devices, built on to
 ### Xiaomi HyperOS BootLoader Bypass
 
 <sup>(Patched HyperOS 2.0.203.0)</sup><br/>
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,839 | 🐛 166 | 🌐 PHP | 📅 2025-11-11
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge\&message=GitHub\&color=181717\&logo=GitHub\&logoColor=FFFFFF\&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass) ⭐ 4,841 | 🐛 166 | 🌐 PHP | 📅 2025-11-11
 
-* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,839 | 🐛 166 | 🌐 PHP | 📅 2025-11-11)
+* Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license) ⭐ 4,841 | 🐛 166 | 🌐 PHP | 📅 2025-11-11)
 * Supported Desktop OS: Windows, Linux, MacOS
 * Run without РС: ❓
 
@@ -164,9 +164,9 @@ Cross-platform GUI tool for working with MediaTek SOC-based devices, built on to
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader) ⚠️ Archived
 
-#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,738 | 🐛 10 | 📅 2026-11-15
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md) ⭐ 5,740 | 🐛 9 | 📅 2026-11-15
 
-#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,738 | 🐛 10 | 📅 2026-11-15
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame) ⭐ 5,740 | 🐛 9 | 📅 2026-11-15
 
 ## Others
 
@@ -176,8 +176,8 @@ Cross-platform GUI tool for working with MediaTek SOC-based devices, built on to
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader) ⭐ 180 | 🐛 1 | 🌐 Assembly | 📅 2020-01-22
 
-#### [Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) ⭐ 4,183 | 🐛 3 | 📅 2025-03-05
+#### [Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire) ⭐ 4,181 | 🐛 3 | 📅 2025-03-05
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
